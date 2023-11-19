@@ -1,0 +1,15 @@
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\bin\Debug\net7.0\Logging.exe
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\bin\Debug\net7.0\Logging.deps.json
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\bin\Debug\net7.0\Logging.runtimeconfig.json
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\bin\Debug\net7.0\Logging.dll
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\bin\Debug\net7.0\Logging.pdb
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.csproj.AssemblyReference.cache
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.AssemblyInfoInputs.cache
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.AssemblyInfo.cs
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.csproj.CoreCompileInputs.cache
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.dll
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\refint\Logging.dll
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.pdb
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\Logging.genruntimeconfig.cache
+C:\Users\james quansah\Desktop\C#\Practice\Logging\Logging\obj\Debug\net7.0\ref\Logging.dll
